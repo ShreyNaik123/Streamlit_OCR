@@ -1,0 +1,9 @@
+google-generativeai
+python-dotenv
+pillow
+pandas
+streamlit
+matplotlib
+plotly
+seaborn
+asyncio
