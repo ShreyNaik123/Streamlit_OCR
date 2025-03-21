@@ -61,7 +61,7 @@ st.markdown("""
 # File uploader with improved styling
 # st.markdown("<div class='upload-container'>", unsafe_allow_html=True)
 uploaded_file = st.file_uploader("Choose an image file", 
-                                type=['png', 'jpg', 'jpeg', 'pdf', 'gif'])
+                                type=['png', 'jpg', 'jpeg'])
 st.markdown("</div>", unsafe_allow_html=True)
 
 # Display uploaded file
